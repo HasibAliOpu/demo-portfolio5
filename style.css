@@ -34,3 +34,9 @@ h1{
     .experiences-item{
         width: 40%;margin-left: 3%; margin-right: 3%; box-shadow: 10px 10px 40px gray;padding: 9px;
     }
+#border1{border-left: 7px solid;border-image: linear-gradient(purple,tomato);border-image-slice: 1;
+
+}
+#border2{border-left: 7px solid;border-image: linear-gradient( blue,cyan);border-image-slice: 1;}
+#exp{background-image: url(images/exp-bg.png);background-repeat: no-repeat;background-position: left;}
+.foter{text-align: center;color: gray;}
